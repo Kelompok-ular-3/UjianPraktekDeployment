@@ -1,4 +1,4 @@
-Ujian Praktek Deploy Kelompok Ular 3
+Ujian Praktek Deployment Kelompok Ular 3
 
 Nama Kelompok:
 
